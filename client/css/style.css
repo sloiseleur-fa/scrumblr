@@ -171,6 +171,16 @@ h2 {
 	opacity: .6;
 }
 
+.bottom-card-icon {
+       padding: 0px;
+       opacity: .8;
+}
+
+.bottom-card-icon:hover {
+       padding: 0px;
+       opacity: 1;
+}
+
 .faded-icon {
 	opacity: .4;
 }
